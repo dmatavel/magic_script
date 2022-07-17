@@ -1,2 +1,2 @@
 # magic_script
-A shell script to set up my development environment on a debian based GNU/LINUX distribution.
+This script set up a C environment and general tools on a debian/ubuntu based GNU/LINUX distribution.

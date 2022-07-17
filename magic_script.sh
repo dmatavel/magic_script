@@ -6,7 +6,6 @@ INST=install
 RM=remove
 
 echo Updating system ...
-
     $SAPT update && $SAPT upgrade
 
 echo Installing general tools ...
